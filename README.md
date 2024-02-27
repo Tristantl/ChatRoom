@@ -1,1 +1,1 @@
-pour copier le fichier télécharger en zip et importer dans visual studio code
+pour copier le fichier télécharger en zip et importer les fichiers dans visual studio code
